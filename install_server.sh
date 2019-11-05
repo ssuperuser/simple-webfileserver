@@ -1,6 +1,5 @@
-# hello this is change
 #!/bin/bash
-
+#this is third change
 # script for setting up server
 
 echo "-> Installing virtualenv..."
