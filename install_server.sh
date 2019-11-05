@@ -1,3 +1,4 @@
+# hello this is change
 #!/bin/bash
 
 # script for setting up server
